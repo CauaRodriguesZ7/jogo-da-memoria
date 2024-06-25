@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    background-color: #4B0082; 
+    font-family: Arial, sans-serif;
+    color: #ffffffc1;
+    font-family: "Press Start 2P", system-ui;
+}
+
